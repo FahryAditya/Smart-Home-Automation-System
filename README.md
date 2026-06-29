@@ -1,4 +1,4 @@
-🏠 Smart Home Automation System
+🏠 Smart Home Automation System V2.0
 
 Sistem otomasi rumah berbasis Arduino + C++ yang mengontrol lampu melalui relay, membaca suhu & kelembaban dari sensor DHT22, dan menerima perintah melalui IR Remote atau Bluetooth (HC-05).
 Termasuk fitur Mode Hemat Energi Otomatis yang menyesuaikan penggunaan daya berdasarkan kondisi lingkungan.
